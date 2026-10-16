@@ -1,0 +1,14 @@
+{
+  "name": "dsa-practice",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "bun test",
+    "week1": "bun test week1",
+    "week2": "bun test week2",
+    "week3": "bun test week3"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.3"
+  }
+}
